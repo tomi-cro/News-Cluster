@@ -1,0 +1,28 @@
+.news{
+    box-sizing: border-box;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 16px;
+    margin: 25px;
+    height: 300px;
+    width: 1000px;
+}
+
+.picture{
+    width:200px;
+    height:200px;
+}
+
+.title{
+    position: relative;
+    bottom: 200px;
+    left: 220px;
+    width:78%;
+}
+
+.description{
+    position: relative;
+    bottom: 180px;
+    left: 240px;
+    width:75%;
+}

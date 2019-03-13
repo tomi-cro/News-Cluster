@@ -1,0 +1,32 @@
+{
+  "name": "coco-zadatak",
+  "version": "1.0.0",
+  "description": "CoCo zadatak(Tomislav Cajbert)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tcajbert@bitbucket.org/tcajbert/coco_zadatak.git"
+  },
+  "keywords": [
+    "CoCo"
+  ],
+  "author": "Tomislav Cajbert",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tcajbert/coco_zadatak#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "moment": "^2.23.0",
+    "rss-parser": "^3.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.8"
+  }
+}
